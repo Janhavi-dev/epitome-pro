@@ -7,7 +7,7 @@ if (!empty($_POST['email'])) {
     $enable_smtp = 'yes'; // yes OR no
 
     // Email Receiver Address
-    $receiver_email = 'janhavi.n@sumadhuragroup.com';
+    $receiver_email = '';
 
     // Email Receiver Name for SMTP Email
     $receiver_name = 'Sumadhura Group';
